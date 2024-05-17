@@ -1,4 +1,4 @@
-# FYI:This warehouse may be deleted at any time
+# FYI:This repo may be deleted at any time
 
 ### test step
 1. run service
