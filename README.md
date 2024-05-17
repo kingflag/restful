@@ -1,5 +1,8 @@
-* run service
+# FYI:This warehouse may be deleted at any time
 
-* run UT
+### test step
+1. run service
 
-* check verify result
+2. run UT
+
+3. check verify result
